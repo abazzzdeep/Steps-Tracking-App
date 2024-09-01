@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/Home"/>
+
+    <item android:title="Community"
+        android:icon="@drawable/baseline_groups_24"
+        android:id="@+id/community"
+        />
+    <item android:title="Rankings"
+        android:icon="@drawable/baseline_bar_chart_24"
+        android:id="@+id/global" />
+
+    <item android:title="My Page"
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/mypage"
+        />
+</menu>
