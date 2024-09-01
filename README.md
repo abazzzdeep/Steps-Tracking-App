@@ -1,6 +1,7 @@
 Overview
 The Step Tracker App is a simple and intuitive Android application designed to help users monitor their daily step count. With a user-friendly interface and easy navigation, this app is perfect for anyone looking to keep track of their physical activity and stay motivated.
-![sample](https://github.com/user-attachments/assets/39de29ae-8c14-406b-9678-5ada4b06ce78)
+![sample](https://github.com/user-attachments/assets/74aec28e-9e7a-4b6f-834c-85f43107ef54)
+
 
 Features
 Step Counting: Automatically counts your steps throughout the day using your device's built-in sensors.
